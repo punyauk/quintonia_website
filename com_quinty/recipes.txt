@@ -1,0 +1,643 @@
+RECIPE INFOMATION FOR QUINTONIA  (Version: 15 April 2020) 
+
+* SF Hob
+[Veg stew]
+DURATION=180
+INGREDIENTS=Aubergines, 50% Chillies, 50% Potatoes, 50% Onions, 25% Parsley, 25% Coriander, 50% kWh
+PRODUCT=SF Stew
+NUTRITION 25%=Hungry -75, Thirsty -1, Drunk -20
+[Chik curry]
+DURATION=180
+INGREDIENTS=50% Chillies, 50% Onions, 50% Carrots, Tomatoes, 25% Coriander, 25% Chives, Chicken, 50% Rice, 25% Milk, 50% kWh
+PRODUCT=SF Chicken curry
+NUTRITION 25%=Hungry -75, Drunk -20
+[Fish Stew]
+DURATION=180
+INGREDIENTS=Fish, Tomatoes, Water, 25% Parsley, 25% Salt, 50% kWh
+PRODUCT=SF Fish Stew
+NUTRITION 25%=Hungry -75
+[Boiled Rice]
+DURATION=180
+INGREDIENTS=Water, Rice, 50% kWh
+PRODUCT=SF Boiled Rice
+NUTRITION 25%=Hungry -50
+[Pasta]
+DURATION=180
+INGREDIENTS=Water, Eggs, Flour, 25% Basil,Tomatoes,Sunflower Oil or Olive Oil,50% kWh
+PRODUCT=SF Pasta
+NUTRITION 25%=Hungry -75
+[Fries]
+DURATION=200
+INGREDIENTS=Potatoes, Sunflower Oil or Olive Oil, 10% Salt, 50% kWh
+PRODUCT=SF Fries
+NUTRITION 25%=Hungry -50, Drunk -20
+[Cheesy fries]
+DURATION=220
+INGREDIENTS=Potatoes, Sunflower Oil or Olive Oil, Cheese, 50% kWh
+PRODUCT=SF Cheesy fries
+NUTRITION 25%=Hungry -75, Drunk -20
+[Tomato Soup]
+DURATION=200
+INGREDIENTS=Tomatoes, Water, Bread, 25% Parsley, Bowl, 50% kWh
+PRODUCT=SF Tomato Soup
+NUTRITION 50%=Hungry -70
+[Deluxe Tomato Soup]
+DURATION=220
+INGREDIENTS=Tomatoes, Water, Cheese Toast, 25% Tomato Sauce, 25% Chives, Bowl, 50% kWh
+PRODUCT=SF Deluxe Tomato Soup
+NUTRITION 25%=Hungry -90
+[Stewed Tomatoes]
+DURATION=200
+INGREDIENTS=Tomatoes, Water, 25% Onions, 25% Chives, Bowl, 50% kWh
+PRODUCT=SF Stewed Tomatoes
+NUTRITION 50%=Hungry -70
+[Tomato Sauce]
+DURATION=220
+INGREDIENTS=Tomatoes, Water, 25% Sugar, 50% kWh
+PRODUCT=SF Tomato Sauce
+NUTRITION=No value. Only used as ingredient in other dishes.
+[Cranberry Sauce]
+DURATION=330
+INGREDIENTS=5% Orange juice, Sugar, 5% Wine, 50% Ginger, 50% kWh
+PRODUCT=SF Cranberry Sauce
+NUTRITION=No value. Only used as ingredient in other dishes
+[Curd]
+DURATION=200
+INGREDIENTS=Milk, 25% Salt, Rennet, 50% kWh
+PRODUCT=SF Curd
+NUTRITION=No value. Only used as ingredient in other dishes
+[Tofu]
+DURATION=200
+INGREDIENTS=Soyamilk, 25% Salt, 25% Lemon Juice, 50% kWh
+PRODUCT=SF Tofu
+NUTRITION=No value. Only used as ingredient in other dishes
+[Salt]
+DURATION=200
+INGREDIENTS=Sea Water, 50% kWh
+PRODUCT=SF Salt
+NUTRITION=No value. Only used as ingredient in other dishes
+
+*SF Frying Pan
+[Veggie Omelette]
+DURATION=140
+INGREDIENTS=50% Aubergines or 50% Peppers or 50% Pumpkin, 25% Milk or 25% Soyamilk, Eggs, 25% Peas or 25% Onions, 25% Parsley or 25% Coriander, 50% kWh
+PRODUCT=SF Veggie Omelette
+NUTRITION 50%=Hungry -95
+[Egg & Chips]
+DURATION=150
+INGREDIENTS=50% Potatoes, 50% Eggs, 25% Sunflower Oil or 25% Olive Oil, 25% Tomato Sauce, 50% kWh
+PRODUCT=SF Egg & Chips
+NUTRITION 50%=Hungry -95
+[Ostrich Steak]
+DURATION=140
+INGREDIENTS=Ostrich Meat, 25% Sunflower Oil or 25% Olive Oil, 50% kWh
+PRODUCT=SF Ostrich Steak
+NUTRITION 50%=Hungry -75
+[Breaded Ostrich]
+DURATION=140
+INGREDIENTS=Ostrich Meat, 25% Bread, 25% Sunflower Oil or 25% Olive Oil, 50% Dried Rosemary or 50% Rosemary, 25% Salt, 50% kWh
+PRODUCT=SF Breaded Ostrich
+NUTRITION 50%=Hungry -95
+[Steak & Eggs]
+DURATION=150
+INGREDIENTS=Meat, 50% Eggs, 25% Sunflower Oil or 25% Olive Oil, 25% Salt, 50% kWh
+PRODUCT=SF Steak & Eggs
+NUTRITION 25%=Hungry -90
+[Fried Breakfast]
+DURATION=150
+INGREDIENTS=Meat, 50% Eggs, 25% Bread, 25% Butter, 50% kWh
+PRODUCT=SF Fried Breakfast
+NUTRITION 25%=Hungry -95, Drunk -40
+[Grilled Fish]
+DURATION=150
+INGREDIENTS=Fish, 25% Lemons or 25% Limes, 25% Thyme or 25% Dried Thyme, 50% kWh
+PRODUCT=SF Grilled Fish
+NUTRITION 50%=Hungry -80
+[Poached Fish]
+DURATION=150
+INGREDIENTS=Fish, Sun Dried Tomatoes, 25% Milk or 25% Soyamilk, 25% Dried Dill, 25% Salt, 50% kWh
+PRODUCT=SF Poached Fish
+NUTRITION 50%=Hungry -80
+
+* SF Kitchen Oven
+[Sugar]
+DURATION=300
+INGREDIENTS=Sugar Extract, kWh
+PRODUCT=SF Sugar
+NUTRITION=No value. Only used as ingredient in other dishes
+[Maple Syrup]
+DURATION=3600
+INGREDIENTS=Maple Sap, Water, kWh
+PRODUCT=SF Maple Syrup
+NUTRITION=No value. Only used as ingredient in other dishes
+[Bread]
+DURATION=300
+INGREDIENTS=Flour or Buckwheat Flour, Water, 50% Sunflower Oil or 50% Olive Oil, kWh, 10% Salt
+PRODUCT=SF Bread
+NUTRITION 25%=Hungry -30
+[Tortillas]
+DURATION=300
+INGREDIENTS=Flour or Buckwheat Flour, Water, 25% Sunflower Oil or 25% Olive Oil, kWh, 10% Salt
+PRODUCT=SF Tortillas
+NUTRITION 25%=Hungry -30
+[Roast veg]
+DURATION=240
+INGREDIENTS=Potatoes, Carrots or Pumpkin, Peppers, Aubergines or Onions, Parsley or Basil or Rosemary, 25% Sunflower Oil, kWh
+PRODUCT=SF Roasted veg
+NUTRITION=No value. Only used as ingredient in other dishes
+[Pizza]
+DURATION=240
+INGREDIENTS=Flour or Buckwheat Flour, 50% Water, 25% Sunflower Oil or 25% Olive Oil, Tomatoes, Cheese, Peppers, Basil, kWh
+PRODUCT=SF Pizza
+NUTRITION 25%=Hungry -50, Drunk -20
+[Apple Pie]
+DURATION=300
+INGREDIENTS=Apples, Water, Flour, 25% Butter, kWh
+PRODUCT=SF Apple pie
+NUTRITION 25%=Hungry -50
+[Fruit Pie]
+DURATION=300
+INGREDIENTS=Cherries or Apples or Strawberries, Water, Flour, 25% Butter, 25% Sugar, kWh
+PRODUCT=SF Fruit pie
+NUTRITION 25%=Hungry -50     
+[Cherry Cake]
+DURATION=240
+INGREDIENTS=Flour, Eggs, Cherries, Milk or Soyamilk, kWh
+PRODUCT=SF Cherry cake
+NUTRITION 25%=Hungry -40
+[Coffee Cake]
+DURATION=300
+INGREDIENTS=Flour, Eggs, Milk or Soyamilk, Coffee, kWh
+PRODUCT=SF Coffee cake
+NUTRITION 25%=Hungry -50
+[Strawberry Cake]
+DURATION=240
+INGREDIENTS=Flour, Eggs, 50% Milk or 50% Soyamilk, Strawberries, kWh
+PRODUCT=SF Strawberry cake
+NUTRITION 25%=Hungry -40 
+[Gateaux]
+DURATION=300
+INGREDIENTS=Flour, Eggs, Milk or Soyamilk, Strawberries, Cocoa, kWh
+PRODUCT=SF Gateaux
+NUTRITION 25%=Hungry -50
+[Meringue pie]
+DURATION=300
+INGREDIENTS=Lemons or Limes, 50% Milk or Soyamilk, Sugar, Eggs, kWh
+PRODUCT=SF Meringue pie
+NUTRITION 25%=Hungry -50
+[Pavlova]
+DURATION=300
+INGREDIENTS=Strawberries, Milk or Soyamilk, Sugar, Eggs, kWh
+PRODUCT=SF Pavlova
+NUTRITION 25%=Hungry -60
+[Baked Potatoes]
+DURATION=200
+INGREDIENTS=Potatoes, 25% Butter, kWh
+PRODUCT=SF Baked Potatoes
+NUTRITION 50%=Hungry -95
+[Meatballs]
+DURATION=210
+INGREDIENTS=Meat or Ostrich Meat, Tomatoes, Water, 50% Onions, 25% Basil, kWh
+PRODUCT=SF Meatballs
+NUTRITION 50%=Hungry -80     
+[Stuffed Tomatoes]
+DURATION=210
+INGREDIENTS=Tomatoes, Rice, 50% Cheese, 25% Peppers or 25% Peas, 25% Onions, kWh
+PRODUCT=SF Stuffed Tomatoes
+NUTRITION 50%=Hungry -80
+[Turkey Dinner]
+DURATION=300
+INGREDIENTS=Turkey meat, Potatoes, Corn, Peas, Cranberry Sauce, kWh
+PRODUCT=SF Turkey Dinner
+NUTRITION 25%=Hungry -100
+[Roast Chicken]
+DURATION=300
+INGREDIENTS=Chicken, 25% Dried Oregano or 25% Oregano, 50% Apples, 25% Salt, kWh
+PRODUCT=SF Roast Chicken
+NUTRITION 25%=Hungry -95
+[Roast Duck]
+DURATION=300
+INGREDIENTS=Duck Meat, 25% Dried Ginger or 25% Ginger, 50% Oranges, 25% Honey or 25% Maple Syrup, kWh
+PRODUCT=SF Roast Duck
+NUTRITION 25%=Hungry -90
+[Duck & Cherry Sauce]
+DURATION=300
+INGREDIENTS=Duck, 50% Cherries, Water, 50% Milk or 50% Soyamilk, 10% Cognac, kWh
+PRODUCT=SF Duck & Cherry Sauce
+NUTRITION 25%=Hungry -95
+
+*SF Toaster
+[Toast]
+DURATION=100
+INGREDIENTS=25% Bread, 25% kWh
+PRODUCT=SF Toast 
+NUTRITION 100%=Hungry -45
+[Cheese Toast]
+DURATION=100
+INGREDIENTS=25% Bread,  25% Cheese, 25% kWh
+PRODUCT=SF Cheese Toast  
+NUTRITION 100%=Hungry -90
+
+* SF Salad Bar
+[Cheese sandwich]
+DURATION=60
+INGREDIENTS=Bread, Lettuce, Tomatoes, Cheese or Kefalotyri, 50% Butter
+PRODUCT=SF Cheese sandwich
+NUTRITION 50%=Hungry -90
+[Chicken sandwich]
+DURATION=60
+INGREDIENTS=Bread, Lettuce, Tomatoes, Chicken, 50% Butter
+PRODUCT=SF Chicken sandwich
+NUTRITION 50%=Hungry -90
+[Egg sandwich]
+DURATION=60
+INGREDIENTS=Bread, Lettuce, Eggs, 50% Butter
+PRODUCT=SF Egg sandwich
+NUTRITION 50%=Hungry -90
+[BLT sandwich]
+DURATION=60
+INGREDIENTS=Bread, Lettuce, Tomatoes, Meat, 50% Butter
+PRODUCT=SF BLT sandwich
+NUTRITION 50%=Hungry -90
+[Roast veg sandwich]
+DURATION=60
+INGREDIENTS=Bread,Roasted veg,50% Basil, 25% Olive oil
+PRODUCT=SF Roasted veg sandwich
+NUTRITION 50%=Hungry -90
+[Hamburger]
+DURATION=60
+INGREDIENTS=Bread, Tomatoes, 50% Cheese, Meat
+PRODUCT=SF Hamburger
+NUTRITION 50%=Hungry -75
+[Salad]
+DURATION=120
+INGREDIENTS=Lettuce,Tomatoes,Peppers or Carrots,Onions or Corn,50% Olive Oil or 50% Sunflower Oil
+PRODUCT=SF Salad
+NUTRITION 25%=Hungry -80
+[Greek salad]
+DURATION=120
+INGREDIENTS=Tomatoes, Peppers, Onions, Olives, Feta, Olive Oil
+PRODUCT=SF Greek salad
+NUTRITION 25%=Hungry -80
+
+* SF Ice Creams
+[Ice]
+DURATION=60
+INGREDIENTS=Water
+PRODUCT=SF Ice
+NUTRITION=No value. Only used as ingredient in other dishes
+[Ice cream]
+DURATION=80
+INGREDIENTS=25% Ice, 25% Milk or 25% Soyamilk, 25% Cherries or 25% Bananas or 25% Strawberries
+PRODUCT=SF Ice cream cone
+NUTRITION 100%=Hungry -50
+[Rum n Raisin]
+DURATION=120
+INGREDIENTS=25% Ice, 25% Milk or 25% Soyamilk, 10% Rum, 25% Raisins
+PRODUCT=SF Rum n raisin
+NUTRITION 100%=Hungry -70, Drunk +10
+[Ice sundae]
+DURATION=120
+INGREDIENTS=25% Ice, 25% Milk or 25% Soyamilk, 25% Strawberries, 25% Bananas, 25% Mint or 25% Spearmint, 25% Cocoa
+PRODUCT=SF Ice cream sundae
+NUTRITION 50%=Hungry -80
+[Sorbet]
+DURATION=80
+INGREDIENTS=25% Ice, 25% Sugar or 25% Honey, 25% Lemons or 25% Oranges or 25% Limes or 25% Cherries
+PRODUCT=SF Sorbet
+NUTRITION 10%=Hungry -30, Thirsty -30
+
+* SF Cheese Maker
+[Cheese]
+DURATION=200
+INGREDIENTS=Curd, 25% Salt
+PRODUCT=SF Cheese
+NUTRITION 25%=Hungry -30
+[Feta]
+DURATION=200
+INGREDIENTS=Curd, 25% Salt
+PRODUCT=SF Feta
+NUTRITION=No value. Only used as ingredient in other dishes
+[Kefalotyri]
+DURATION=300
+INGREDIENTS=Curd, 50% Salt
+PRODUCT=SF Kefalotyri
+NUTRITION=No value. Only used as ingredient in other dishes
+
+* SF Blender
+[Strawberry milkshake]
+DURATION=40
+INGREDIENTS=10% Milk or 10% Soyamilk, 10% Strawberries
+PRODUCT=SF  Strawberry milkshake
+NUTRITION 50%=Hungry -30, Thirsty -10
+[Chocolate milkshake]
+DURATION=40
+INGREDIENTS=10% Milk or 10% Soyamilk, 10% Cocoa
+PRODUCT=SF  Chocolate milkshake
+NUTRITION 50%=Hungry -30, Thirsty -10
+[Strawberry smoothie]
+DURATION=60
+INGREDIENTS=10% Bananas, 10% Strawberries, 10% Orange Juice, 10% Mint
+PRODUCT=SF  Strawberry smoothie
+NUTRITION 100%=Hungry -80, Thirsty -5
+[Sunshine smoothie]
+DURATION=60
+INGREDIENTS=10% Bananas, 10% Limes, 10% Carrot Juice, 10% Orange Juice
+PRODUCT=SF  Sunshine smoothie
+NUTRITION 50%=Hungry -75, Thirsty -75
+
+* SF Hot Drinks Maker
+[Black Coffee]
+DURATION=100
+INGREDIENTS=25% Coffee, 50% Water
+PRODUCT=SF Black Coffee
+NUTRITION 100%=Hungry -10, Thirsty -75, Drunk -60
+[Cappuccino]
+DURATION=100
+INGREDIENTS=25% Coffee, 25% Sugar, 50% Water, 25% Milk or 25% Soyamilk
+PRODUCT=SF Cappuccino
+NUTRITION 100%=Hungry -15, Thirsty -75, Drunk -60
+[Latte]
+DURATION=100
+INGREDIENTS=25% Coffee, 50% Milk or 50% Soyamilk, 25 %Sugar, 50% Water
+PRODUCT=SF Latte
+NUTRITION 100%=Hungry -15, Thirsty -75, Drunk -50
+[Pot of Tea]
+DURATION=100
+INGREDIENTS=Tea Leaves, 75% Water, 50% Sugar, 75% Milk or 75% Soyamilk
+PRODUCT=SF Teapot
+NUTRITION 50%=Hungry -15, Thirsty -80, Drunk -20
+[Cup of Tea]
+DURATION=100
+INGREDIENTS=25% Tea Leaves, 50% Water, 25% Sugar, 50% Milk or 50% Soyamilk
+PRODUCT=SF Tea
+NUTRITION 100%=Hungry -10, Thirsty -75, Drunk -10
+[Green Tea]
+DURATION=100
+INGREDIENTS=25% Tea Leaves, 50% Water
+PRODUCT=SF Green Tea  
+NUTRITION 100%=Hungry -5, Thirsty -75, Drunk -20
+[Hot Chocolate]
+DURATION=100
+INGREDIENTS=25% Milk or 25% Soyamilk, 25% Cocoa, 25% Honey
+PRODUCT=SF Hot Chocolate   
+NUTRITION 100%=Hungry -20, Thirsty -75, Drunk -35
+
+* SF Drinks maker
+[Apple juice glass]
+DURATION=30
+INGREDIENTS=10% Apple Juice
+PRODUCT=SF  Apple juice glass
+NUTRITION 100%=Hungry -10, Thirsty -70
+[Carrot juice glass]
+DURATION=30
+INGREDIENTS=10% Carrot Juice
+PRODUCT=SF  Carrot juice glass
+NUTRITION 100%=Hungry -10, Thirsty -70
+[Cranberry juice glass]
+DURATION=30
+INGREDIENTS=10% Cranberry Juice,10% Orange Juice
+PRODUCT=SF  Cranberry juice glass
+NUTRITION 100%=Hungry -10, Thirsty -90
+[Grape juice glass]
+DURATION=30
+INGREDIENTS=10% Grape Juice
+PRODUCT=SF Carrot juice glass
+NUTRITION 100%=Hungry -10, Thirsty -70
+[Orange juice jug]
+DURATION=30
+INGREDIENTS=10% Orange Juice
+PRODUCT=SF  Orange juice jug
+NUTRITION 50%=Hungry -10, Thirsty -100
+[Tomato  juice glass]
+DURATION=30
+INGREDIENTS=10% Tomato Juice
+PRODUCT=SF  Tomato  juice glass
+NUTRITION 100%=Hungry -10, Thirsty -70
+[Lemonade jug]
+DURATION=30
+INGREDIENTS=10% Lemonade Juice
+PRODUCT=SF  Lemonade jug
+NUTRITION 50%=Hungry -10, Thirsty -100
+[Lemon  juice glass]
+DURATION=30
+INGREDIENTS=10% Lemon Juice
+PRODUCT=SF  Lemon  juice glass
+NUTRITION 100%=Hungry -10, Thirsty -70
+[Apple Cider glass]
+DURATION=30
+INGREDIENTS=10% Apple Cider
+PRODUCT=SF  Apple Cider glass
+NUTRITION 100%=Hungry -10, Thirsty -70, Drunk +10
+[Beer glass]
+DURATION=30
+INGREDIENTS=10% Beer
+PRODUCT=SF Beer glass
+NUTRITION 100%=Hungry -10, Thirsty -50, Drunk +30
+[Wine glass]
+DURATION=30
+INGREDIENTS=10% Wine
+PRODUCT=SF Wine glass
+NUTRITION 100%=Thirsty -20, Drunk +50
+[Cognac glass]
+DURATION=30
+INGREDIENTS=10% Cognac
+PRODUCT=SF  Cognac glass
+NUTRITION 100%=Thirsty -10, Drunk +50
+[Gin glass]
+DURATION=30
+INGREDIENTS=10% Gin
+PRODUCT=SF  Gin glass
+NUTRITION 100%=Thirsty -10, Drunk +50
+[Vodka glass]
+DURATION=30
+INGREDIENTS=10% Vodka
+PRODUCT=SF  Vodka glass
+NUTRITION 100%=Thirsty -10, Drunk +60
+[Whiskey glass]
+DURATION=30
+INGREDIENTS=10% Whiskey
+PRODUCT=SF  Whiskey glass
+NUTRITION 100%=Thirsty -10, Drunk +50
+[Sake glass]
+DURATION=30
+INGREDIENTS=10% Sake
+PRODUCT=SF  Sake glass
+NUTRITION 100%=Thirsty -10, Drunk +50
+[Bloody Mary]
+DURATION=50
+INGREDIENTS=10% Tomato Juice,10% Lemon Juice,10% Vodka
+PRODUCT=SF  Bloody Mary
+NUTRITION 100%=Thirsty 30, Drunk +60
+[Pipe]
+DURATION=30
+INGREDIENTS=10% Pot
+PRODUCT=SF Pipe
+NUTRITION 100%=Hungry +10, Drunk +10
+
+* SatyrFarm Microbrewery
+[Beer]
+DURATION=600
+INGREDIENTS=Barley,Hops,Corn or Sugar,Water,Yeast
+PRODUCT=SF Beer
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Cognac]
+DURATION=600
+INGREDIENTS=Grapes,Water
+PRODUCT=SF Cognac
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Gin]
+DURATION=600
+INGREDIENTS=Grain,Coriander or Lemons,Water
+PRODUCT=SF Gin
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Mead]
+DURATION=600
+INGREDIENTS=Wine,Honey,Water,Yeast
+PRODUCT=SF Mead
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Rum]
+DURATION=600
+INGREDIENTS=Sugar Cane,Water
+PRODUCT=SF Rum
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Sake]
+DURATION=600
+INGREDIENTS=Rice,Yeast,Water
+PRODUCT=SF Sake
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Vodka]
+DURATION=600
+INGREDIENTS=Potatoes,Water
+PRODUCT=SF Vodka
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Whiskey]
+DURATION=600
+INGREDIENTS=Corn,Water
+PRODUCT=SF Whiskey
+NUTRITION=No value. Only used as ingredient in other dishes 
+
+* SF Press
+[Soyamilk]
+DURATION=120
+INGREDIENTS=Soyabeans, 25% Water
+PRODUCT=SF Soyamilk
+NUTRITION 25%=Hungry -10, Thirsty -40
+[Sunflower Oil]
+DURATION=100
+INGREDIENTS=Sunflower Seeds
+PRODUCT=SF Sunflower Oil
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Olive Oil]
+DURATION=100
+INGREDIENTS=Olives
+PRODUCT=SF Olive Oil
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Sugar Extract]
+DURATION=200
+INGREDIENTS=Sugar Cane
+PRODUCT=SF Sugar Extract
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Rolled Oats]
+DURATION=100
+INGREDIENTS=Oats
+PRODUCT=SF Rolled Oats
+NUTRITION=No value. Only used as ingredient in other dishes 
+
+*SF Windmill
+[Flour]
+DURATION=300
+INGREDIENTS=Grain
+PRODUCT=SF Flour
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Buckwheat Flour]
+DURATION=300
+INGREDIENTS=Buckwheat
+PRODUCT=SF Buckwheat Flour
+NUTRITION=No value. Only used as ingredient in other dishes
+
+* SatyrFarm Wood Oven
+[Sugar]
+DURATION=300
+INGREDIENTS=Sugar Extract, Wood
+PRODUCT=SF Sugar
+NUTRITION=No value. Only used as ingredient in other dishes
+[Maple syrup]
+DURATION=3600
+INGREDIENTS=Maple Sap, Water, Wood
+PRODUCT=SF Maple Syrup
+NUTRITION=No value. Only used as ingredient in other dishes
+[Bread]
+DURATION=300
+INGREDIENTS=Flour, Water, Olive Oil, Wood, 10% Salt
+PRODUCT=SF Bread
+NUTRITION 25%=Hungry -30
+[Pizza]
+DURATION=300
+INGREDIENTS=Flour, 50% Water, Olive Oil, Tomatoes, Cheese, Peppers, Basil, Wood
+PRODUCT=SF Pizza
+NUTRITION 25%=Hungry -50, Drunk -20
+
+* SatyrFarm Kitchen
+[Slop]
+DURATION=100
+INGREDIENTS=Meat or Soyabeans or Fish or Chicken or Tomatoes or Potatoes,Water
+PRODUCT=SF Slop
+NUTRITION=No value. Used as animal feed.
+[Salt]
+DURATION=200
+INGREDIENTS=Sea Water
+PRODUCT=SF Salt
+NUTRITION=No value. Only used as ingredient in other dishes
+[Curd]
+DURATION=200
+INGREDIENTS=Milk,25% Salt,Rennet
+PRODUCT=SF Curd
+NUTRITION=No value. Only used as ingredient in other dishes
+
+* SatyrFarm Drier
+[Raisins]
+DURATION=86400
+INGREDIENTS=Grapes
+PRODUCT=SF Raisins
+NUTRITION 25%=Hungry -10
+[Salt]
+DURATION=86400
+INGREDIENTS=Sea Water
+PRODUCT=SF Salt
+NUTRITION=No value. Only used as ingredient in other dishes
+[Dried Chillies]
+DURATION=43200
+INGREDIENTS=Chillies
+PRODUCT=SF Dried Chillies
+NUTRITION=No value. Only used as ingredient in other dishes
+[Dried Dill]
+DURATION=43200
+INGREDIENTS=Dill
+PRODUCT=SF Dried Dill
+NUTRITION=No value. Only used as ingredient in other dishes
+[Dried Ginger]
+DURATION=43200
+INGREDIENTS=Ginger
+PRODUCT=SF Dried Ginger
+NUTRITION=No value. Only used as ingredient in other dishes      
+[Dried Oregano]
+DURATION=43200
+INGREDIENTS=Oregano
+PRODUCT=SF Dried Oregano
+NUTRITION=No value. Only used as ingredient in other dishes
+[Dried Rosemary]
+DURATION=43200
+INGREDIENTS=Rosemary
+PRODUCT=SF Dried Rosemary
+NUTRITION=No value. Only used as ingredient in other dishes 
+[Dried Thyme]
+DURATION=43200
+INGREDIENTS=Thyme
+PRODUCT=SF Dried Thyme
+NUTRITION=No value. Only used as ingredient in other dishes
+[Sundried Tomatoes]
+DURATION=43200
+INGREDIENTS=Tomatoes
+PRODUCT=SF Sun Dried Tomatoes
+NUTRITION=No value. Only used as ingredient in other dishes

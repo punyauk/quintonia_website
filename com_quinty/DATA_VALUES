@@ -1,0 +1,107 @@
+# Values for SF items. These override the values specified by the product itself (if any)
+# Format: Object name (without SF) |  Thirsty: W | Hungry: X | Drunk: Y | Sick: Z | Energy: A | Hygiene:B | Bladder:C
+# Last update 14 May 2020 PM
+@VER=1
+Apple juice glass|100|Thirsty:-70
+Apple Pie|25|Hungry:-50
+Apples|25|Thirsty:-5|Hungry:-20
+Baked Potatoes|50|Hungry:-95
+Bananas|25|Thirsty:0|Hungry:-20
+Beef Jerky|10|Hungry:-5
+Beer glass|100|Drunk:30|Thirsty:-80
+Black Coffee|100|Thirsty:-75|Drunk:-60
+Bloody Mary|100|Drunk:60|Thirsty:-10
+BLT sandwich|50|Hungry:-95
+Boiled Rice|50|Hungry:-50
+Bread|25|Hungry:-30
+Breaded Ostrich|50|Hungry:-95
+Cappuccino|100|Thirsty:-75|Drunk:-60|Hungry:-15
+Carrot juice glass|100|Thirsty:-70
+Carrots|25|Hungry:-20
+Cider glass|100|Thirsty:-70|Drunk:10
+Cheese sandwich|50|Hungry:-95
+Cheese|25|Hungry:-30
+Cheesy Fries|25|Hungry:-75|Drunk:-20
+Cherries|25|Thirsty:-1|Hungry:-20
+Cherry Cake|25|Hungry:-40
+Chicken sandwich|50|Hungry:-95
+Chik curry|25|Hungry:-75|Drunk:-20
+Chocolate milkshake|50|Hungry:-30|Thirsty:-10
+Coffee Cake|25|Hungry:-50
+Cognac glass|100|Drunk:50|Thirsty:-10
+Cranberry juice glass|100|Thirsty:-90
+Cup of Tea|100|Thirsty:-75|Hungry:-10|Drunk:-10
+Deluxe Tomato Soup|25|Hungry:-90
+Duck & Cherry Sauce|25|Hungry:-95
+Egg & Chips|50|Hungry:-95
+Egg sandwich|50|Hungry:-95
+Figs|50|Hungry:-20
+Fish Stew|25|Hungry:-75
+Fried Breakfast|25|Hungry:-95|Drunk:-40
+Fries|25|Hungry:-50|Drunk:-20
+Fruit Pie|25|Hungry:-50
+Gateaux|25|Hungry:-50
+Gin glass|100|Drunk:50|Thirsty:-10
+Grape juice glass|100|Thirsty:-70
+Grapes|25|Thirsty:-5|Hungry:-20
+Greek Salad|25|Hungry:-80
+Green Tea|100|Thirsty:-75|Drunk:-20
+Grilled Fish|50|Hungry:-80
+Hamburger|50|Hungry:-75
+Hot Chocolate|100|Thirsty:-75|Drunk:-35|Hungry:-20
+Ice cream cone|100|Hungry:-50
+Ice cream sundae|50|Hungry:-80
+Latte|100|Thirsty:-75|Drunk:-50|Hungry:-15
+Lemon juice glass|100|Thirsty:-70
+Lemon meringue pie|25|Hungry:-50
+Lemonade jug|50|Thirsty:-100
+Lettuce|25|Hungry:-5
+Magic Balm|100|Sick:-99
+Meatballs|50|Hungry:-80
+Meringue pie|25|Hungry:-50
+Milk|25|Thirsty:-20|Hungry:-10
+Olives|25|Thirsty:-1|Hungry:-15
+Orange juice jug|50|Thirsty:-70
+Oranges|25|Thirsty:-5|Hungry:-20
+Ostrich Steak|50|Hungry:-75
+Pasta|25|Hungry:-75
+Pastries|50|Hungry:-75
+Pavlova|25|Hungry:-60
+Pear juice jug|50|Thirsty:-70
+Pears|25|Hungry:-10
+Peas|25|Hungry:-10
+Pipe|50|Thirsty:0|Drunk:10|Hungry:10
+Pizza|25|Hungry:-50|Drunk:-20
+Poached Fish|50|Hungry:-80
+Pot of Tea|50|Thirsty:-80|Hungry:-5|Drunk:-20
+Raisins|25|Hungry:-15
+Roast Chicken|25|Hungry:-95
+Roast Duck|25|Hungry:-90
+Roasted veg sandwich|50|Hungry:-95
+Rum n raisin|100|Hungry:-70|Drunk:10
+Sake glass|100|Drunk:50|Thirsty:-10
+Salad|25|Hungry:-80
+Sorbet|100|Hungry:-30|Thirsty:-30
+Soyamilk|25|Thirsty:-20|Hungry:-10
+Steak & Eggs|25|Hungry:-90
+Stew|25|Thirsty:-1|Hungry:-75|Drunk:-20
+Stewed Tomatoes|50|Hungry:-70
+Strawberries|25|Thirsty:-5|Hungry:-20
+Strawberry Cake|25|Hungry:-40
+Strawberry milkshake|50||Hungry:-30|Thirsty:-10
+Strawberry smoothie|100|Hungry:-80|Thirsty:-5
+Stuffed Tomatoes|50|Hungry:-80
+Sunshine smoothie|50|Hungry:-75|Thirsty:-75
+Tacos|25|Hungry:-75
+Tea|100|Thirsty:-75|Hungry:-10|Drunk:-10
+Teapot|50|Thirsty:-80|Hungry:-15|Drunk:-20
+Tomato juice glass|100|Thirsty:-70|Hungry:-5
+Tomato Soup|50|Hungry:-70
+Tomatoes|25|Thirsty:-1|Hungry:-15
+Tortillas|25|Hungry:-30
+Turkey Dinner|25|Hungry:-100
+Veggie Omelette|50|Hungry:-95
+Vodka glass|100|Drunk:60|Thirsty:-10
+Walnuts|25|Hungry:-5
+Whiskey glass|100|Drunk:50|Thirsty:-10
+Wine glass|100|Drunk:50|Thirsty:-50

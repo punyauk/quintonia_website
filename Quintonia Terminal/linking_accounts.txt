@@ -1,0 +1,13 @@
+*** Welcome to Quintonia - Queer Virtual Worlds ***
+
+Quintonia is a queer friendly grid and welcomes all that identify as queer or LGBTI+ as well as those that don't but are happy to be in a queer environment.   Quintonia grew out of the Quintasensual festival as a place where queer people could meet and connect in 'one location' no matter where they are in the real world.
+https://quintasensual.org
+
+You can create a new account from the website but you can also create an account on the Quintonia website and link it to your current avatar.  
+
+This way you keep your current avatar, inventory etc but also get to collect Quinto's and also take part in events and pursuits created for members of Quintonia.
+
+You can click the "Website" button from this terminal or just go to https://www.quintonia.net/register
+Then create an account, login,  and you can select "In-World account"  be taken to the Avatar creation page. Instead of filling in the options to create a new avatar you can copy the code there and the use the "Register" option on this terminal and paste it there to link your account.
+
+You can also link your account using the Quintonia/Satyr Farm HUD

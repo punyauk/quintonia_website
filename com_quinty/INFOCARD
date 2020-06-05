@@ -1,0 +1,146 @@
+QUINTONIA SATYR FARM HUD   (Help information version: 19 February 2020) 
+
+** Don't forget to make sure you have activated the same group as the farm as you can't do things if that is not your active group **
+Note that the Satyr Farm System is always growing and evolving, so there may be some things different that described here. If you come across anything please do leave a message on the forums, thanks.
+
+HOW TO MOVE ITEMS - Touch an item and it will follow you. Touch again to put down near storage rack etc.  You can touch multiple items and they will all follow you together.  Don't try to put items into your inventory or take off Mintor as they will stop working properly (you can put the fishing rod into your inventory but be aware that it always resets the fishing progress when you wear it again).
+
+SOME THINGS TO DO
+ Check water on plants, feeders etc.
+ Collect items at 100% and put to storage or use:
+    Wood, Manure, Eggs, Milk, Honey, Chicken meat, Wool
+    Crops from fields  and trees
+    Finished manufactured products
+ Water the grass
+ Check the level of feeders
+ Balance out the storage racks
+ Check for part used products (less than 100%) and put in compost bin
+ Go fishing
+ Make food/products.  NOTE: If you start making something it will show what ingredients need adding. The message box has an option to CLOSE and also Ignore so use them if you need to go off and get something. DON'T use the ABORT button unless you really mean it as any ingredients added will be lost!
+
+
+ - Quintonia SatyrFarm HUD - Information
+
+ This HUD allows you to eat and drink as you get hungry and thirsty.  It also gives you Quintonia points for your time spent wearing it (although the points counter stops if you get very hungry/thirsty!)
+
+ Clock - The clock shows how far through day or night it is.
+
+ Indicators - Show your levels of  Hunger, Thirst, Drunkenness, Sickness.  If they go orange it's time to eat or drink. If they go red you may end up fainting!
+ Points - builds up and then credits your Quintonia account with 20 points roughly every half hour.
+
+ MENU
+ Consume:lets you eat and drink items around you.
+ Status - shows your current levels of hunger etc.
+ Help - Loads this notecard from the Quintonia server.
+ Recipes - Loads a notecard that shows you the recipes for the various food preparation items in the café.
+ Points - Allows you to link and unlink avatars to a Quintonia account. Also allows you to check your points balance and to sell items for points.
+ Scan - Scans around you and reports information about any animal you select. You can set the scan range from the 'options' menu (see below) - note that this scan only works with animals that have been 'upgraded' to the Quintonia version.
+ When scanning, animals will freeze and turn bright pink or blue depending upon their sex. Note that even eggs will show a colour so only run if you don't mind knowing!  Animals return to normal after about 1 minute - this should help you keep a check on which animals have been scanned etc.
+ Provisions - Allows you to save items to your provisions box, rez it out and take back.
+
+OPTIONS
+ Scan range - Set the scan range (up to 96m radius) for the scan option.
+ Range disc - This option is only shown if you have permissions to rez an object. It will rez a disc of the same dimensions as the scan range. The disc is removed by touching it, but also it will vanish after about 5 minutes.
+ Quiet - Select this to switch to having the HUD only display information on it's screen.
+ Chatty - Select this to have information appear in your chat as well as showing on the screen.
+
+ Pause - this pauses the HUD so your hunger, thirst etc will not change until you resume.
+ RESET - this will reset the HUD and clear all values and stored items. It wil prompt you a second time to make sure you want to do that!
+
+
+** More info and discussions at https://quintonia.net/forum/farming
+
+
+** PRODUCE  **
+ SMALL FIELD - Tea, strawberries, Sugar cane, Tomatoes, Peppers, Pot, Potatoes, Carrots, Aubergines, Onions,
+ SQUARE FIELD - Corn, Grain, Hay, Pumpkin, Soyabeans
+ HERB FIELD - Basil, Chives, Coriander, Flowers, Lettuce, Mint, Parsley, Rosemary
+ RICE FIELD - Rice
+ TREES - Apples, Cherries, Cocoa beans, Coffee beans, Lemons, Limes, Oranges, Wood
+ VINE - Hops, Grapes, Chillies
+ OLIVE TREE - Olives, Wood
+ PLANTER - Banana
+ BEE HIVES - Honey
+ WELLS - Water
+ CHICKEN COOP - Eggs, Chicken meat
+ FISHING ROD - Fish
+ COMPOST BIN - Manure
+ RENNET BOTTLE - Rennet
+ SEAWATER PUMP - Sea water
+ YEAST BOTTLE - Yeast
+
+** ANIMALS **
+ Bulldog - Manure [Eats from Dog Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Camel - Milk♀️, Wool, Manure  [Eats from Feeder] Pregnancy lasts 5 days. On average lives 100 days
+ Cat - Manure [Eats from Cat Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Chickens - Eggs♀️ [Eats from Chicken Feeder] Egg incubation lasts 24 hours. On average lives 30 days
+ Cow - Milk♀️, Manure [Eats from SF Feeder] Pregnancy lasts 5 days. On average lives 40 days
+ Dolphin - [Eats from Fish Feeder] Pregnancy lasts 5 days. On average lives 100 days
+ Duck - [Eats from Chicken Feeder] Egg incubation lasts about 1.85 days. When butchered gives Duck meat
+ Elephant - Milk♀️, Manure [Eats from Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Elk - Manure [Eats from Feeder] Pregnancy lasts 5 days. On average lives 60 days
+ Giraffe - Manure [Eats from Feeder] Pregnancy lasts 5 days. On average,lives 200 days
+ Goat - Milk♀️, Wool, Manure  [Eats from Feeder] Pregnancy lasts 5 days. On average lives 40 days
+ Great dane - Manure [Eats from Dog Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Horse - Manure [Eats from Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Husky - Manure [Eats from Dog Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Labrador - [Eats from Dog Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Leopard - [Eats from Tiger Feeder] Pregnancy lasts 5 days. On average lives 100 days
+ Lion - [Eats from Tiger Feeder] Pregnancy lasts 5 days. On average lives 150 days
+ Ostrich - Manure [Eats from Chicken Feeder] Egg incubation lasts about 1.85 days. On average lives 100 days
+ Panda - Manure [Eats from Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Penguin - Manure [Eats from Fish Feeder] Egg time lasts 2.78 days. On average lives 100 days
+ Pig -  Manure [Eats from Pig Feeder] Pregnancy lasts 5 days. On average lives 30 days
+ Rabbit - [Eats from Rabbit Feeder] Pregnancy lasts 5 days. On average lives 30 days
+ Reindeer - Manure [Eats from Feeder] Pregnancy lasts 5 days. On average lives 60 days
+ Sheep - Milk♀️, Wool, Manure [Eats from Feeder] Pregnancy lasts 5 days. On average lives 40 days
+ Squirrel - Manure [Eats from Chicken Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Swan - [Eats from Chicken Feeder] Egg incubation lasts about 1.85 days. On average lives 200 days
+ Tiger - [Eats from Tiger Feeder] Pregnancy lasts 5 days. On average lives 100 days
+ Turtle - [Eats from Feeder] Egg incubation lasts about 1.85 days, On average lives 150 days
+== DINO-CORNER
+ Bantha - Wool, Manure [Eats from SF Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Brachiosarus - Manure [Eats from SF Feeder] Egg time lasts 2.78 days. On average lives 200 days
+ Raptor - Manure [Eats from Tiger Feeder] Egg time lasts 2.78 days. On average lives 100 days
+ Stegosaurus - Manure [Eats from SF Feeder] Egg time lasts 2.78 days. On average lives 200 days
+ Tauntaun - Woll, Manure [Eats from SF Feeder] Pregnancy lasts 5 days. On average lives 200 days
+ Triceratops - Manure [Eats from SF Feeder] Egg time lasts 2.78 days. On average lives 200 days
+ T.Rex - Manure [Eats from Tiger Feeder] Egg time lasts 2.78 days. On average lives 200 days
+
+** FEEDERS **
+Cat feeder - fish, slop, milk, water
+Chicken feeder - corn, grain, slop, water
+Dog feeder - slop, milk, water
+Feeder - cherries, grapes, apples, aubergines, strawberries, oranges, grain, water
+Fish feeder - slop, fish
+Rabbit feeder - grain, hay, water
+Pig feeder - slop, water
+Tiger feeder - fish, meat, chicken, eggs, milk, water, slop
+
+** STORAGE **
+Note that you can't take out any produce if below 10% in store.
+
+SF FRIDGE
+ Butter, Cheese, Chicken, Curd, Duck meat, Eggs, Feta, Fish, Ice, Kefalotyri, Meat, Milk, Slop, Soyamilk, Tofu
+    Note: In the café the fridge is called SF Refrigerator but is same as SF Fridge apart from not storing slop
+
+SF STORAGE RACK
+ Apples, Aubergines, Bananas, Basil, Carrots, Cherries, Chillies, Chives, Cocoa Beans
+ Coffee Beans, Coriander, Corn, Flowers, Grain, Grapes, Hay, Honey, Hops, Lemons, Lettuce
+ Limes, Mint, Olives, Onions, Oranges, Parsley, Peppers, Pot, Potatoes, Pumpkin, Rice
+ Rosemary, Soyabeans, Strawberries, Sugar Cane, Tea Leaves, Tomatoes
+
+SF Storage Area (in nature reserve)
+ Essential Oil, Flour, Olive Oil, Perfume, Raisins, Salt, Sugar Extract, Wood Alcohol, Wool
+
+SF Cake Storage (in café)
+ Apple pie, Cherry cake, Coffee cake, Fruit pie, Gateaux, Lemon meringue pie, Pavlova, Strawberry cake
+
+SF Bread Storage (in café)
+ Bread, Tortillas
+
+
+The extension packs available in Quintonia are modifications to the “Satyr Farm” system, which is an open source Farm system that contains fully functional plants, breedable animals, tools and food processing items. More information can be found at https://satyrfarm.github.io/
+
+
+@VER=1
